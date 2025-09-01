@@ -23,15 +23,6 @@ Aspiring developer with an eye on **software development**. I’m passionate abo
 
 ---
 
-## 📈 Goals
-
-- 🚀 Build a strong portfolio of unique and useful projects  
-- 🧠 Sharpen problem-solving and algorithmic thinking  
-- 🔒 Learn foundational cybersecurity tools and techniques  
-- 💼 Break into the tech field as a junior developer or security analyst  
-- 📚 Never stop learning — become the best programmer I can be
-
----
 
 ## 🤝 Let's Connect
 
