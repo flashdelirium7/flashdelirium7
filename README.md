@@ -16,7 +16,8 @@ Aspiring developer with an eye on **software development**. I’m passionate abo
 ## 💻 Languages & Tools
 
 - 🌐 HTML & CSS  
-- ☕ Java  
+- ☕ Java
+- Javascript
 - 🐍 Python (actively learning)  
 - 🛠️ Git & GitHub  
 
