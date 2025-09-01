@@ -1,6 +1,6 @@
 # ⚡ Hey there, I'm FlashDelirium7!
 
-Aspiring developer on a journey to master programming — with an eye on **software development** and **cybersecurity**. I’m passionate about building things from the ground up and constantly pushing myself to grow technically and creatively.
+Aspiring developer with an eye on **software development**. I’m passionate about building things from the ground up and constantly pushing myself to grow technically and creatively.
 
 ---
 
